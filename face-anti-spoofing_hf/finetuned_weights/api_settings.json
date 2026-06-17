@@ -1,0 +1,18 @@
+{
+  "thresholds": {
+    "sasf": 0.7,
+    "flrgb": 0.45,
+    "icm2o": 0.564862,
+    "iom2c": 0.218523,
+    "cdcn": 0.53
+  },
+  "weights": {
+    "sasf": 0.2,
+    "flrgb": 0.2,
+    "icm2o": 0.2,
+    "iom2c": 0.2,
+    "cdcn": 0.2
+  },
+  "enable_temporal": true,
+  "temporal_weight": 0.35
+}
